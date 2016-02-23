@@ -1,1 +1,3 @@
-yeezy-bot is a bot written in Python that helps obtain items from http://shop.yeezysupply.com. 
+yeezy-bot is a Python program that helps obtain items from http://shop.yeezysupply.com as quickly as possible.
+
+This particular version of the program was made specifically to run within OS X, as it makes use of OS X's native notifications.
